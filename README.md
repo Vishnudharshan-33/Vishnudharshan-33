@@ -1,152 +1,304 @@
 <div align="center">
 
-# 👋 Hi, I'm **Vishnu Dharshan**
+<!-- Animated Name -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=VISHNUDHARSHAN+K;Data+Engineer+%7C+AI+Architect;LLM+%26+Agentic+AI+Developer;Building+Intelligent+Systems" alt="Typing Animation" />
 
-### 🚀 AI Engineer | Data Scientist | Full-Stack Developer
+<br>
 
-> *"Turning data into intelligence, and ideas into reality."*
+<!-- Profile Banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&customColorList=0,2,2,5,30&text=Welcome+to+my+Digital+Space&fontSize=40&fontColor=fff&animation=fadeIn" alt="Banner" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vishnu-dharshan-k/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Vishnudharshan-33" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:vishnudharshan.k@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Vishnudharshan-33&color=blueviolet&style=flat-square" alt="Profile Views" />
+<!-- Social Badges -->
+<a href="https://www.linkedin.com/in/vishnu-dharshan-k/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Vishnudharshan-33" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" alt="GitHub"/>
+</a>
+<a href="mailto:vishnudharshank@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" alt="Gmail"/>
+</a>
+<a href="tel:+919087184940" target="_blank">
+  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=20" alt="Phone"/>
+</a>
+
+<br><br>
+
+<!-- Location Badge -->
+<img src="https://img.shields.io/badge/📍%20Theni,%20Tamil%20Nadu,%20India-FF6B6B?style=for-the-badge" alt="Location" />
+
+<br>
+
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=Vishnudharshan-33&color=00D4FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/Vishnudharshan-33?color=00D4FF&style=for-the-badge&logo=github&label=Followers" alt="Followers" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🎯 About Me
 
-I'm a passionate **AI & Data Science enthusiast** who loves building intelligent systems that solve real-world problems. I specialize in:
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  🎓 B.E. Electronics & Communication Engineering (CGPA: 8.4)   │
+│  🏢 Data Engineer @ Cognizant (Nov 2024 – Present)               │
+│  🤖 Specializing in Agentic AI, LLMs & Data Engineering         │
+│  ☁️  Cloud-Native | Big Data | Intelligent Automation           │
+│  🏆 AWS Certified Data Engineer Associate 2026                   │
+│  🏆 AI Engineer Agentic Track Certified                          │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-- 🤖 **AI/ML & LLMs** — Building intelligent agents, chatbots, and NLP pipelines
-- 📊 **Data Analytics** — Transforming raw data into actionable insights
-- 🌐 **Full-Stack Development** — End-to-end application development
-- 🔍 **Vector Search & RAG** — Semantic search and retrieval-augmented generation
+> *"I architect intelligent systems that bridge the gap between raw data and actionable intelligence. From ETL pipelines to autonomous AI agents — I build what scales."*
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
-### 🤖 AI & Machine Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/FAISS-0081FB?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+### 🤖 AI & Agentic Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=1C3C3C" />
+  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white&labelColor=FF6B6B" />
+  <img src="https://img.shields.io/badge/LangSmith-00D4FF?style=for-the-badge&logo=langchain&logoColor=white&labelColor=00D4FF" />
+  <img src="https://img.shields.io/badge/CrewAI-FF9500?style=for-the-badge&logo=crewai&logoColor=white&labelColor=FF9500" />
+  <img src="https://img.shields.io/badge/AutoGen-8A2BE2?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=8A2BE2" />
+  <img src="https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=412991" />
+  <img src="https://img.shields.io/badge/RAG-FF3366?style=for-the-badge&logo=semanticweb&logoColor=white&labelColor=FF3366" />
+  <img src="https://img.shields.io/badge/MCP-00FF88?style=for-the-badge&logo=protocol&logoColor=black&labelColor=00FF88" />
+  <img src="https://img.shields.io/badge/N8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white&labelColor=FF6D5A" />
+  <img src="https://img.shields.io/badge/OpenAI_API-10A37F?style=for-the-badge&logo=openai&logoColor=white&labelColor=10A37F" />
 </p>
 
-### 🌐 Web & Visualization
-<p align="left">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-  <img src="https://img.shields.io/badge/Panel-00A3E0?style=for-the-badge&logo=anaconda&logoColor=white" alt="Panel"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+### ☁️ Cloud & Big Data
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=FF9900" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=E25A1C" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black&labelColor=66CCFF" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white&labelColor=29B5E8" />
+  <img src="https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=FF9900" />
+  <img src="https://img.shields.io/badge/AWS_EMR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=FF9900" />
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white&labelColor=FF9900" />
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white&labelColor=569A31" />
+  <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white&labelColor=8C4FFF" />
+  <img src="https://img.shields.io/badge/Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white&labelColor=4053D6" />
 </p>
 
-### 💻 Languages & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+### 🗄️ Databases & DevOps
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=CC2927" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=D24939" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=2088FF" />
+  <img src="https://img.shields.io/badge/Autosys-000000?style=for-the-badge&logo=clockify&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/uDeploy-0052CC?style=for-the-badge&logo=atlassian&logoColor=white&labelColor=0052CC" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=F37626" />
+</p>
+
+### 💻 Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=003B57" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🏢 Professional Experience
 
-### 💰 [AI-Powered Personal Finance Manager](https://github.com/Vishnudharshan-33/ai-powered-personal-finance-manager-dashboard)
-> An intelligent finance management system with AI categorization, real-time dashboards, and a conversational chatbot.
+```diff
++ Data Engineer @ Cognizant, Kochi, Kerala
+  November 2024 – Present
 
-- 🤖 **AI Categorization** — Auto-classifies transactions using LLMs (Ollama/OpenAI)
-- 📊 **Interactive Dashboard** — Plotly visualizations for spending insights
-- 💬 **Finance Chatbot** — Natural language queries via Flask + FAISS vector search
-- ⚡ **Tech**: LangChain, Plotly, Panel, Flask, FAISS, Pandas
-
----
-
-### 🤖 [AI Agents Materials](https://github.com/Vishnudharshan-33/AI-Agents_Materials)
-> A curated collection of resources, notebooks, and experiments for building autonomous AI agents.
-
-- 📚 Research & tutorials on agent architectures
-- 🧪 Hands-on experiments with LLM-based agents
-- 🔧 Reusable components and patterns
+  ✓ Orchestrated CI/CD pipelines using GitHub, Jenkins & uDeploy
+  ✓ Implemented Autosys job scheduling (Daily, Weekly, Monthly frequencies)
+  ✓ Integrated Snowflake & Rally MCP servers in VS Code for AI-assisted workflows
+  ✓ Built end-to-end ETL pipelines with PySpark (Snowflake ↔ SQL Server ↔ S3 ↔ Tableau)
+  ✓ Delivered production features via Agile methodology with Rally
+```
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Signature Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 [Deep Research Agent](https://github.com/Vishnudharshan-33)
+**Multi-Agent AI Research System**
+
+```
+┌─────────────────────────────────────┐
+│  Planner → Search → Writer → Email  │
+│  4 Specialized Agents in Pipeline   │
+│  OpenAI Agents SDK | Pydantic       │
+│  Async | SendGrid | WebSearchTool   │
+└─────────────────────────────────────┘
+```
+
+- 🎯 4-agent sequential pipeline for end-to-end research automation
+- 📝 Writer Agent synthesizes search results into markdown reports
+- 📧 Email Agent delivers formatted HTML reports via SendGrid
+- ⚡ Built with `asyncio`, `Pydantic`, and `OpenAI Agents SDK`
+
+</td>
+<td width="50%">
+
+### 💰 [AI Finance Manager](https://github.com/Vishnudharshan-33/ai-powered-personal-finance-manager-dashboard)
+**AI-Powered Personal Finance Dashboard**
+
+```
+┌─────────────────────────────────────┐
+│  AI Categorization | FAISS Search   │
+│  Plotly Dashboard | Flask Chatbot │
+│  LangChain | Ollama | OpenAI       │
+└─────────────────────────────────────┘
+```
+
+- 🤖 Auto-categorizes transactions using LLMs
+- 📊 Interactive Plotly visualizations
+- 💬 Conversational chatbot with FAISS vector search
+- ⚡ Supports both Ollama (local) & OpenAI APIs
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧠 [LangGraph Agentic Chatbot](https://github.com/Vishnudharshan-33)
+**Agentic Chatbot with Tools & Memory**
+
+```
+┌─────────────────────────────────────┐
+│  LangGraph StateGraph | Cyclic Loop │
+│  Real-time Web Search | Push Notif  │
+│  LangSmith Tracing | SQLite Memory  │
+│  GPT-4o-mini | Google Serper API    │
+└─────────────────────────────────────┘
+```
+
+- 🔄 Dynamic tool selection with cyclic reasoning loops
+- 🔍 Real-time web search via Google Serper
+- 📱 Mobile push notifications integration
+- 📊 Full observability via LangSmith tracing
+- 🗄️ Persistent memory with SQLite backend
+
+</td>
+<td width="50%">
+
+### 📄 [1C Portal RAG Chatbot](https://github.com/Vishnudharshan-33)
+**Document-Grounded Q&A System**
+
+```
+┌─────────────────────────────────────┐
+│  OpenAI Embeddings | GPT Generation │
+│  FAISS Vector Index | PyPDF2       │
+│  Custom Chunking | Semantic Search │
+└─────────────────────────────────────┘
+```
+
+- 📚 RAG system for intelligent document Q&A
+- 🔍 FAISS-powered semantic similarity search
+- 📄 Custom chunking optimized for PDF structure
+- ⚡ Efficient retrieval with OpenAI embeddings
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Certifications & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishnudharshan-33&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnudharshan-33&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://img.shields.io/badge/AWS_Certified_Data_Engineer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=FF9900" />
+  <img src="https://img.shields.io/badge/AI_Engineer_Agentic_Track-00D4FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=00D4FF" />
+  <img src="https://img.shields.io/badge/B.E._ECE_CGPA_8.4-FF6B6B?style=for-the-badge&logo=graduationcap&logoColor=white&labelColor=FF6B6B" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishnudharshan-33&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B6B&text_color=FFFFFF" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnudharshan-33&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnudharshan-33&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnudharshan-33&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6B6B&fire=FF9500&currStreakLabel=00D4FF" alt="GitHub Streak" />
 </p>
-
----
-
-## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vishnudharshan-33&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishnudharshan-33&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=FF6B6B&point=FF9500" alt="Contribution Graph" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishnudharshan-33&theme=radical&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vishnudharshan-33&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 🎯 Current Focus
+## 🌟 What I'm Building Now
 
-- 🔬 Exploring **Agentic AI** and autonomous agent architectures
-- 🧠 Building **RAG-based** applications with vector databases
-- 📊 Creating **data-driven dashboards** with real-time analytics
-- 🤖 Experimenting with **local LLMs** via Ollama for privacy-first AI
+```yaml
+Current_Focus:
+  - 🔬 Architecting multi-agent systems with LangGraph & CrewAI
+  - 🧠 Building RAG applications with FAISS & vector databases
+  - ☁️  Scaling ETL pipelines on AWS (Glue, EMR, Lambda)
+  - 🤖 Experimenting with local LLMs via Ollama for privacy-first AI
+  - 📊 Creating real-time analytics dashboards with Snowflake
+  - 🔄 Automating workflows with N8n & MCP integrations
+```
 
 ---
 
-## 📫 Let's Connect!
+## 🎵 Vibe Check
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31l3q7q7q7q7q7q7q7q7q7q7&cover_image=true&theme=default&show_offline=false&background_color=0D1117&interchange=false" alt="Spotify" />
+</p>
+
+---
+
+## 📡 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vishnu-dharshan-k/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20&label=Let's%20Connect" />
   </a>
   <a href="https://github.com/Vishnudharshan-33" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoWidth=20&label=Follow%20Me" />
   </a>
-  <a href="mailto:vishnudharshan.k@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:vishnudharshank@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20&label=Email%20Me" />
   </a>
+  <a href="tel:+919087184940" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=20&label=Call%20Me" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📧%20vishnudharshank@gmail.com-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📱%20%2B91%2090871%2084940-25D366?style=for-the-badge" />
 </p>
 
 ---
 
 <div align="center">
 
-### ⭐ *If you find my work interesting, consider starring my repositories!*
+### ⭐ *If my work sparks your interest, drop a star — it fuels the next build!* ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=fadeIn" alt="Footer" />
 
 </div>
