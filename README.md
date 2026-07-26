@@ -34,6 +34,16 @@
 
 <br>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vishnudharshan-33/Vishnudharshan-33/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+> 🔧 *One-time setup needed:* add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to this repo so it auto-generates the snake SVG on an `output` branch — see `SETUP.md`.
+
+<br>
+
 ## 🎯 About Me
 
 - 🏢 **Data Engineer @ Cognizant** — Kochi, Kerala | Nov 2024 – Present
@@ -223,12 +233,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishnudharshan-33&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B6B&text_color=FFFFFF" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=Vishnudharshan-33&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6B6B&fire=FF9500&currStreakLabel=00D4FF" height="165" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnudharshan-33&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=Vishnudharshan-33&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6B6B&fire=FF9500&currStreakLabel=00D4FF" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -244,16 +249,6 @@
 </p>
 
 > ℹ️ If this looks blank right after adding it, give it a minute — it's generated live from your GitHub activity, and brand-new/low-activity accounts sometimes show mostly "locked" trophy outlines until it refreshes. If it's still empty after a day, it's most likely just this free service being flaky and safe to delete.
-
-<br>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vishnudharshan-33/Vishnudharshan-33/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-> 🔧 *One-time setup needed:* add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to this repo so it auto-generates the snake SVG on an `output` branch — instructions in the footer note below.
 
 <br>
 
@@ -321,4 +316,3 @@ else:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=fadeIn" alt="Footer" />
 
 </div>
- 
