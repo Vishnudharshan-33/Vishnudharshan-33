@@ -100,16 +100,33 @@
 
 ## 🏢 Professional Experience
 
-```diff
-+ Data Engineer @ Cognizant, Kochi, Kerala
-  November 2024 – Present
+<table>
+<tr>
+<td>
 
-  ✓ Orchestrated CI/CD pipelines for code migration & deployment using GitHub, Jenkins & uDeploy
-  ✓ Implemented Autosys job scheduling across Daily, Weekly, Monthly & Yearly frequencies
-  ✓ Integrated Snowflake & Rally MCP servers in VS Code for AI-assisted querying & sprint delivery
-  ✓ Built end-to-end ETL pipelines with PySpark (Snowflake ↔ SQL Server ↔ S3 ↔ Tableau ↔ Excel)
-  ✓ Delivered production features via Agile methodology with Rally
-```
+### 💼 Data Engineer <img src="https://img.shields.io/badge/Cognizant-1A73E8?style=flat-square&logoColor=white" align="center"/>
+📍 Kochi, Kerala &nbsp;|&nbsp; 🗓️ November 2024 – Present
+
+<br>
+
+🔧 &nbsp;**CI/CD & Orchestration**
+&nbsp;&nbsp;&nbsp;&nbsp;Built code migration & deployment pipelines with `GitHub` → `Jenkins` → `uDeploy`
+
+⏱️ &nbsp;**Job Scheduling**
+&nbsp;&nbsp;&nbsp;&nbsp;Automated `Autosys` jobs across Daily / Weekly / Monthly / Yearly frequencies
+
+🤖 &nbsp;**AI-Assisted Workflows**
+&nbsp;&nbsp;&nbsp;&nbsp;Integrated `Snowflake` + `Rally` MCP servers in VS Code for AI-assisted querying & sprint delivery
+
+⚡ &nbsp;**ETL Engineering**
+&nbsp;&nbsp;&nbsp;&nbsp;Designed pipelines with `PySpark` → `Snowflake` ↔ `SQL Server` ↔ `S3` ↔ `Tableau` ↔ `Excel`
+
+🔄 &nbsp;**Agile Delivery**
+&nbsp;&nbsp;&nbsp;&nbsp;Shipped production features cross-functionally via `Rally`
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -206,17 +223,35 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishnudharshan-33&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B6B&text_color=FFFFFF" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnudharshan-33&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishnudharshan-33&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B6B&text_color=FFFFFF" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Vishnudharshan-33&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6B6B&fire=FF9500&currStreakLabel=00D4FF" height="165" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnudharshan-33&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6B6B&fire=FF9500&currStreakLabel=00D4FF" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnudharshan-33&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishnudharshan-33&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=FF6B6B&point=FF9500" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishnudharshan-33&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=FF6B6B&point=FF9500" alt="Contribution Graph" width="100%"/>
 </p>
+
+<br>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vishnudharshan-33&theme=radical&no-bg=true&margin-w=15&row=1&column=6" alt="Trophies" />
+</p>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vishnudharshan-33/Vishnudharshan-33/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+> 🔧 *One-time setup needed:* add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to this repo so it auto-generates the snake SVG on an `output` branch — instructions in the footer note below.
 
 <br>
 
@@ -234,12 +269,32 @@ Current_Focus:
 
 <br>
 
-## 🏆 Certifications
+## 🎧 Now Playing
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS_Certified_Data_Engineer_Associate_2026-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Engineer_Agentic_Track-00D4FF?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://novatorem-vishnudharshan-33.vercel.app/api/spotify" alt="Spotify now playing" />
 </p>
+
+> 🔧 *Needs one-time setup (see `SETUP.md`) — deploys a small Vercel app that reads your Spotify activity via OAuth and refreshes this card live.*
+
+<br>
+
+## 🎲 Random Dev Wisdom
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+<div align="center">
+
+```python
+if coffee.level < 50:
+    print("⚠️  Vishnu is not fully compiled yet ☕")
+else:
+    print("✅  Ready to ship intelligent agents 🚀")
+```
+
+</div>
 
 <br>
 
