@@ -12,16 +12,13 @@
 
 <!-- Social Badges -->
 <a href="https://www.linkedin.com/in/vishnu-dharshan-k/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/Vishnudharshan-33" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="mailto:vishnudharshank@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" alt="Gmail"/>
-</a>
-<a href="tel:+919087184940" target="_blank">
-  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=20" alt="Phone"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <br><br>
@@ -41,16 +38,12 @@
 
 ## 🎯 About Me
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  🎓 B.E. Electronics & Communication Engineering (CGPA: 8.4)   │
-│  🏢 Data Engineer @ Cognizant (Nov 2024 – Present)               │
-│  🤖 Specializing in Agentic AI, LLMs & Data Engineering         │
-│  ☁️  Cloud-Native | Big Data | Intelligent Automation           │
-│  🏆 AWS Certified Data Engineer Associate 2026                   │
-│  🏆 AI Engineer Agentic Track Certified                          │
-└─────────────────────────────────────────────────────────────────┘
-```
+- 🎓 **B.E. Electronics & Communication Engineering** — VSB Engineering College, Karur | CGPA: 8.4/10
+- 🏢 **Data Engineer @ Cognizant** — Kochi, Kerala | Nov 2024 – Present
+- 🤖 **Specializing in** Agentic AI, LLMs, RAG Systems & Data Engineering
+- ☁️ **Cloud-Native** | Big Data | Intelligent Automation
+- 🏆 **AWS Certified Data Engineer Associate 2026**
+- 🏆 **AI Engineer Agentic Track Certified**
 
 > *"I architect intelligent systems that bridge the gap between raw data and actionable intelligence. From ETL pipelines to autonomous AI agents — I build what scales."*
 
@@ -60,49 +53,49 @@
 
 ### 🤖 AI & Agentic Frameworks
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=1C3C3C" />
-  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white&labelColor=FF6B6B" />
-  <img src="https://img.shields.io/badge/LangSmith-00D4FF?style=for-the-badge&logo=langchain&logoColor=white&labelColor=00D4FF" />
-  <img src="https://img.shields.io/badge/CrewAI-FF9500?style=for-the-badge&logo=crewai&logoColor=white&labelColor=FF9500" />
-  <img src="https://img.shields.io/badge/AutoGen-8A2BE2?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=8A2BE2" />
-  <img src="https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=412991" />
-  <img src="https://img.shields.io/badge/RAG-FF3366?style=for-the-badge&logo=semanticweb&logoColor=white&labelColor=FF3366" />
-  <img src="https://img.shields.io/badge/MCP-00FF88?style=for-the-badge&logo=protocol&logoColor=black&labelColor=00FF88" />
-  <img src="https://img.shields.io/badge/N8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white&labelColor=FF6D5A" />
-  <img src="https://img.shields.io/badge/OpenAI_API-10A37F?style=for-the-badge&logo=openai&logoColor=white&labelColor=10A37F" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangSmith-00D4FF?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-FF9500?style=for-the-badge&logo=crewai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoGen-8A2BE2?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF3366?style=for-the-badge&logo=semanticweb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-00FF88?style=for-the-badge&logo=protocol&logoColor=black" />
+  <img src="https://img.shields.io/badge/N8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ### ☁️ Cloud & Big Data
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=FF9900" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=E25A1C" />
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black&labelColor=66CCFF" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white&labelColor=29B5E8" />
-  <img src="https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=FF9900" />
-  <img src="https://img.shields.io/badge/AWS_EMR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=FF9900" />
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white&labelColor=FF9900" />
-  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white&labelColor=569A31" />
-  <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white&labelColor=8C4FFF" />
-  <img src="https://img.shields.io/badge/Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" />
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white&labelColor=4053D6" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_EMR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
 </p>
 
 ### 🗄️ Databases & DevOps
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=CC2927" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=D24939" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=2088FF" />
-  <img src="https://img.shields.io/badge/Autosys-000000?style=for-the-badge&logo=clockify&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/uDeploy-0052CC?style=for-the-badge&logo=atlassian&logoColor=white&labelColor=0052CC" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=F37626" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Autosys-000000?style=for-the-badge&logo=clockify&logoColor=white" />
+  <img src="https://img.shields.io/badge/uDeploy-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=003B57" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
@@ -128,7 +121,7 @@
 <tr>
 <td width="50%">
 
-### 🤖 [Deep Research Agent](https://github.com/Vishnudharshan-33)
+### 🤖 Deep Research Agent
 **Multi-Agent AI Research System**
 
 ```
@@ -148,7 +141,7 @@
 </td>
 <td width="50%">
 
-### 💰 [AI Finance Manager](https://github.com/Vishnudharshan-33/ai-powered-personal-finance-manager-dashboard)
+### 💰 AI Finance Manager
 **AI-Powered Personal Finance Dashboard**
 
 ```
@@ -169,7 +162,7 @@
 <tr>
 <td width="50%">
 
-### 🧠 [LangGraph Agentic Chatbot](https://github.com/Vishnudharshan-33)
+### 🧠 LangGraph Agentic Chatbot
 **Agentic Chatbot with Tools & Memory**
 
 ```
@@ -190,7 +183,7 @@
 </td>
 <td width="50%">
 
-### 📄 [1C Portal RAG Chatbot](https://github.com/Vishnudharshan-33)
+### 📄 1C Portal RAG Chatbot
 **Document-Grounded Q&A System**
 
 ```
@@ -212,16 +205,6 @@
 
 ---
 
-## 🏆 Certifications & Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS_Certified_Data_Engineer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=FF9900" />
-  <img src="https://img.shields.io/badge/AI_Engineer_Agentic_Track-00D4FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=00D4FF" />
-  <img src="https://img.shields.io/badge/B.E._ECE_CGPA_8.4-FF6B6B?style=for-the-badge&logo=graduationcap&logoColor=white&labelColor=FF6B6B" />
-</p>
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -235,14 +218,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishnudharshan-33&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=FF6B6B&point=FF9500" alt="Contribution Graph" />
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vishnudharshan-33&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -261,34 +236,22 @@ Current_Focus:
 
 ---
 
-## 🎵 Vibe Check
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31l3q7q7q7q7q7q7q7q7q7q7&cover_image=true&theme=default&show_offline=false&background_color=0D1117&interchange=false" alt="Spotify" />
-</p>
-
----
-
 ## 📡 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vishnu-dharshan-k/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20&label=Let's%20Connect" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Vishnudharshan-33" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoWidth=20&label=Follow%20Me" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:vishnudharshank@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20&label=Email%20Me" />
-  </a>
-  <a href="tel:+919087184940" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=20&label=Call%20Me" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/📧%20vishnudharshank@gmail.com-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📱%20%2B91%2090871%2084940-25D366?style=for-the-badge" />
 </p>
 
 ---
