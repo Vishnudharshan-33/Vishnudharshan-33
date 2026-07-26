@@ -321,3 +321,4 @@ else:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=fadeIn" alt="Footer" />
 
 </div>
+ 
