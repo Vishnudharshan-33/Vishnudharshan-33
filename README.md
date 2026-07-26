@@ -240,8 +240,10 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vishnudharshan-33&theme=radical&no-bg=true&margin-w=15&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vishnudharshan-33&theme=radical&row=1&column=6&margin-w=8&margin-h=8" alt="Trophies" />
 </p>
+
+> ℹ️ If this looks blank right after adding it, give it a minute — it's generated live from your GitHub activity, and brand-new/low-activity accounts sometimes show mostly "locked" trophy outlines until it refreshes. If it's still empty after a day, it's most likely just this free service being flaky and safe to delete.
 
 <br>
 
@@ -269,13 +271,15 @@ Current_Focus:
 
 <br>
 
-## 🎧 Now Playing
+## 😂 Random Dev Joke
 
 <p align="center">
-  <img src="https://novatorem-vishnudharshan-33.vercel.app/api/spotify" alt="Spotify now playing" />
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Random dev joke" />
 </p>
 
-> 🔧 *Needs one-time setup (see `SETUP.md`) — deploys a small Vercel app that reads your Spotify activity via OAuth and refreshes this card live.*
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding vibes" />
+</p>
 
 <br>
 
@@ -285,16 +289,12 @@ Current_Focus:
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
-<div align="center">
-
 ```python
 if coffee.level < 50:
     print("⚠️  Vishnu is not fully compiled yet ☕")
 else:
     print("✅  Ready to ship intelligent agents 🚀")
 ```
-
-</div>
 
 <br>
 
