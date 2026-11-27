@@ -1,14 +1,9 @@
 name: Generate Contribution Snake
 
 on:
-  # Regenerate the contribution animation every day.
   schedule:
-    - cron: "0 0 * * *"
-
-  # Allow the workflow to be started manually from the Actions tab.
+    - cron: "0 */6 * * *" # Refresh every six hours
   workflow_dispatch:
-
-  # Refresh the animation whenever the profile README is updated.
   push:
     branches:
       - main
@@ -16,16 +11,16 @@ on:
       - README.md
       - .github/workflows/snake.yml
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     timeout-minutes: 5
-
     steps:
       - name: Generate contribution snake SVGs
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: Vishnudharshan-33
           outputs: |
