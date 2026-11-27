@@ -21,6 +21,18 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vishnudharshan-33/Vishnudharshan-33/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vishnudharshan-33/Vishnudharshan-33/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/Vishnudharshan-33/Vishnudharshan-33/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
 ## 👋 About Me
 
 I'm a **Data Engineer with 2 years of experience** building data pipelines and working with cloud data platforms, alongside hands-on development in **Generative AI, Agentic AI and RAG applications**.
@@ -109,9 +121,16 @@ I'm a **Data Engineer with 2 years of experience** building data pipelines and w
 
 ---
 
+## 🎲 Random Dev Wisdom
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="A random developer quote" />
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
-*Selected projects — exactly four.*
 
 <table>
 <tr>
@@ -207,45 +226,6 @@ A personal AI assistant accessed through a Telegram bot. It accepts text and voi
 
 ---
 
-## 📊 GitHub Activity & Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vishnudharshan-33&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B6B&text_color=FFFFFF&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=Vishnudharshan-33&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6B6B&fire=FF9500&currStreakLabel=00D4FF" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnudharshan-33&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Most used programming languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishnudharshan-33&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=FF6B6B&point=FF9500" alt="GitHub contribution activity graph" width="100%" />
-</p>
-
-<br />
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vishnudharshan-33&theme=radical&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub trophies" />
-</p>
-
-> ℹ️ Trophies and activity visuals are generated from GitHub activity. Some services may take a little time to refresh or may occasionally be unavailable.
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vishnudharshan-33/Vishnudharshan-33/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vishnudharshan-33/Vishnudharshan-33/output/github-contribution-grid-snake.svg" />
-    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/Vishnudharshan-33/Vishnudharshan-33/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
 ## 🌟 What I'm Building Now
 
 ```yaml
@@ -272,12 +252,6 @@ Current_Focus:
 
 <br />
 
-## 🎲 Random Dev Wisdom
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="A random developer quote" />
-</p>
-
 ```python
 if coffee.level < 50:
     print("⚠️  Vishnu is not fully compiled yet ☕")
@@ -289,9 +263,13 @@ else:
 
 ## 💬 Let's Connect
 
-**Always interested in data engineering, cloud platforms, Generative AI and agentic systems.**
+<p align="center">
+  <strong>Always interested in data engineering, cloud platforms, Generative AI and agentic systems.</strong>
+</p>
 
-<a href="https://www.linkedin.com/in/vishnu-dharshan-k/">LinkedIn</a> · <a href="mailto:vishnudharshank@gmail.com">Email</a> · <a href="https://github.com/Vishnudharshan-33">GitHub</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vishnu-dharshan-k/">LinkedIn</a> · <a href="mailto:vishnudharshank@gmail.com">Email</a> · <a href="https://github.com/Vishnudharshan-33">GitHub</a>
+</p>
 
 </div>
 
