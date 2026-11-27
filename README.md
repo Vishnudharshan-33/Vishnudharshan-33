@@ -207,16 +207,32 @@ A personal AI assistant accessed through a Telegram bot. It accepts text and voi
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Activity & Analytics
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vishnudharshan-33&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B6B&text_color=FFFFFF&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Vishnudharshan-33&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6B6B&fire=FF9500&currStreakLabel=00D4FF" alt="GitHub contribution streak" />
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vishnudharshan-33&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnudharshan-33&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnudharshan-33&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Most used programming languages" />
+</p>
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnudharshan-33&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishnudharshan-33&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=FF6B6B&point=FF9500" alt="GitHub contribution activity graph" width="100%" />
+</p>
 
-</div>
+<br />
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vishnudharshan-33&theme=radical&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub trophies" />
+</p>
+
+> ℹ️ Trophies and activity visuals are generated from GitHub activity. Some services may take a little time to refresh or may occasionally be unavailable.
+
+---
 
 ## 🐍 Contribution Snake
 
@@ -224,18 +240,66 @@ A personal AI assistant accessed through a Telegram bot. It accepts text and voi
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vishnudharshan-33/Vishnudharshan-33/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vishnudharshan-33/Vishnudharshan-33/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Vishnudharshan-33/Vishnudharshan-33/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/Vishnudharshan-33/Vishnudharshan-33/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
 ---
 
-<div align="center">
+## 🌟 What I'm Building Now
 
-### 💬 Let's Connect
+```yaml
+Current_Focus:
+  - 🏗️ Building reliable cloud ETL pipelines with PySpark, AWS and Snowflake
+  - 🤖 Developing practical agentic AI systems with LangGraph and MCP
+  - 🧠 Improving RAG applications with hybrid retrieval, reranking and evaluation
+  - 🔌 Connecting AI agents to real tools, APIs and workflows through MCP servers
+  - ⚙️ Automating data and application workflows with Airflow, dbt and n8n
+  - 📊 Turning raw data into trusted analytics and business-ready data products
+```
+
+<br />
+
+## 😂 Random Dev Joke
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="A random developer joke that changes when the profile is refreshed" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Animated coding GIF" />
+</p>
+
+<br />
+
+## 🎲 Random Dev Wisdom
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="A random developer quote" />
+</p>
+
+```python
+if coffee.level < 50:
+    print("⚠️  Vishnu is not fully compiled yet ☕")
+else:
+    print("✅  Ready to ship intelligent agents 🚀")
+```
+
+<br />
+
+## 💬 Let's Connect
 
 **Always interested in data engineering, cloud platforms, Generative AI and agentic systems.**
 
 <a href="https://www.linkedin.com/in/vishnu-dharshan-k/">LinkedIn</a> · <a href="mailto:vishnudharshank@gmail.com">Email</a> · <a href="https://github.com/Vishnudharshan-33">GitHub</a>
+
+</div>
+
+
+<div align="center">
+
+### ⭐ *If my work sparks your interest, drop a star — it fuels the next build!* ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=fadeIn" alt="Thanks for visiting footer banner" />
 
 </div>
